@@ -19,16 +19,16 @@ public class MainApplication {
 
         System.out.println("Object\t\t: " + person1);
         System.out.println("Equals\t\t: " + person1.equals(person2));
-        System.out.println("Name\t\t: "   + person1.name());
-        System.out.println("Age\t\t\t: "  + person1.age());
+        System.out.println("Name\t\t: " + person1.name());
+        System.out.println("Age\t\t\t: " + person1.age());
         System.out.println("HashCode\t: " + person1.hashCode());
 
         System.out.println("--------------------------------------");
 
         System.out.println("Object\t\t: " + person2);
         System.out.println("Equals\t\t: " + person2.equals(person1));
-        System.out.println("Name\t\t: "   + person2.name());
-        System.out.println("Age\t\t\t: "  + person2.age());
+        System.out.println("Name\t\t: " + person2.name());
+        System.out.println("Age\t\t\t: " + person2.age());
         System.out.println("HashCode\t: " + person2.hashCode());
     }
 }
