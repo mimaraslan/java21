@@ -1,4 +1,4 @@
-### Java ###
+# Java
 *.class
 *.jar
 *.war
@@ -6,13 +6,13 @@
 .mtj.tmp/
 hs_err_pid*
 
-### Package Files ###
+# Package Files
 *.nar
 *.zip
 *.tar.gz
 *.rar
 
-### Maven ###
+# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -21,7 +21,7 @@ pom.xml.next
 release.properties
 .mvn/*
 
-### Eclipse ###
+# Eclipse
 .metadata
 .classpath
 .project
@@ -35,14 +35,14 @@ tmp/
 local.properties
 .loadpath
 
-### STS ###
+# STS
 .apt_generated
 .factorypath
 .springBeans
 .sts4-cache
 .mvn/wrapper
 
-### IntelliJ ###
+# IntelliJ
 .idea/
 *.iml
 *.ipr
@@ -50,7 +50,7 @@ local.properties
 out/
 .idea_modules/
 
-### NetBeans ###
+# NetBeans
 nbproject/private/
 build/
 nbbuild/
@@ -60,13 +60,13 @@ nbactions.xml
 nb-configuration.xml
 .nb-gradle/
 
-### VS Code ###
+# VS Code
 .vscode/
 
-### BlueJ files ###
+# BlueJ files
 *.ctxt
 
-### Log file ###
+# Log file
 *.log
 
 # compiled output
