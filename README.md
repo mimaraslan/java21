@@ -7,4 +7,4 @@ JDK 21 (https://jdk.java.net/21/)
 IntelliJ IDEA (https://www.jetbrains.com/idea/nextversion) 
 ------------------------------------------------------------------------------
 
-![IntelliJ IDEA + JDK 21](src/main/resources/images/jdk21.jpeg)
+![IntelliJ IDEA + JDK 21](src/main/resources/images/jdk21.jpg)

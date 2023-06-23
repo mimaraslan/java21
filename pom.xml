@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mimaraslan</groupId>
-    <artifactId>java14-demo</artifactId>
+    <artifactId>java21-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <java.version>14</java.version>
+        <java.version>20</java.version>
     </properties>
 
     <build>
@@ -22,12 +22,12 @@
                 <version>3.8.1</version>
                 <configuration>
                     <!-- 1.10, 11, 12, 13-->
-                    <release>14</release>
+                    <release>20</release>
                     <compilerArgs>
                         --enable-preview
                     </compilerArgs>
-                    <source>14</source>
-                    <target>14</target>
+                    <source>20</source>
+                    <target>20</target>
                 </configuration>
             </plugin>
             <plugin>
